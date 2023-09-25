@@ -6,14 +6,14 @@ This web app is a React JS-based social network platform, enabling users to crea
 
 ## Structure
 ### Frontend Structure
-
+React Component Tree
+<img width="673" alt="image" src="https://github.com/Jasmine-D/Image-Sharing-Social-Website/assets/49736511/0193a389-6ec2-48de-8c15-4be108e81202">
 
 ### Backend Structure
 <img width="797" alt="image" src="https://github.com/Jasmine-D/Image-Sharing-Social-Website/assets/49736511/eae0f0e4-831a-44d0-8ace-8a1d3ebe8f00">
 
-
 ## Tech Stack
-- **Frontend:** React
+- **Frontend:** React, Ant Design
 - **Backend:** Go
 - **Data Storage:** ElasticSearch
 - **API Gateway:** JWT
