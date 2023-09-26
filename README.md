@@ -1,4 +1,4 @@
-# Image-Sharing-Social-Website
+# Image Sharing Social Website
 demo: https://drive.google.com/file/d/1nSfH0BV6ojOixMhG6GOi9KA7ZZthpLna/view?usp=drive_link
 
 ## Description
